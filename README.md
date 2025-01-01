@@ -11,7 +11,7 @@ Welcome to the repository where I summarize, highlight key points, and provide f
 This repository aims to provide a comprehensive collection of summaries, key points, and findings from the most influential and high-quality LLM papers. Whether you're a researcher, student, or enthusiast, this resource will help you stay updated with the latest advancements in LLMs.
 
 ## Papers List
-1. [Paper Title 1](link-to-paper-1)
+1. [Language Models are Unsupervised Multitask Learners](papers/Language Models are Unsupervised Multitask Learners.md)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
